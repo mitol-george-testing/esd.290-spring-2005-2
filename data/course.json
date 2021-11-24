@@ -1,0 +1,39 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Supply Chain Management"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering"
+    ],
+    [
+      "Business",
+      "Operations Management"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "d8589be4-d589-9716-08b9-2d6bf47551e9",
+      "7c3133fb-1ea9-f306-6646-2f66c85c93fd",
+      "4df4a35f-3306-08f2-d743-1d9f735d8502"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Special Topics in Supply Chain Management",
+  "course_description": "This subject presents a range of advanced topics in integrated logistics and supply chain management. The course was conducted in a lecture-discussion format, with participation of corporate executives as guest lecturers. Students prepare industry assessment analyses and make formal classroom presentations. Specific topics alternate from year to year, but basic content includes procurement strategies and strategic sourcing, dynamic pricing and revenue management tactics, mitigation of supply chain risk through supply contracts, strategic outsourcing of supply chain functions and operations, management and operation of third party logistics providers, and management of supply chain security.\n",
+  "department_numbers": [
+    "ESD"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "ESD.290",
+  "learning_resource_types": [
+    "Workshop Videos",
+    "Lecture Notes",
+    "Activity Assignments",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
